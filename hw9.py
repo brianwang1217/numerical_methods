@@ -1,7 +1,7 @@
 import matplotlib.pyplot as pt
 import numpy as np
 import math
-# Score: 12/18
+
 ''' SVD and PCA '''
 # a) Plot X
 mean = np.zeros(2,)
